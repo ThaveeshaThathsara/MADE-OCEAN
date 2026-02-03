@@ -1,3 +1,4 @@
+# Deploy to GitHub Pages (Forced Refresh)
 name: Deploy to GitHub Pages
 
 on:
