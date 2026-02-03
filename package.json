@@ -1,4 +1,8 @@
 {
+  "workspaces": [
+    "packages/*",
+    "web"
+  ],
   "dependencies": {
     "apexcharts": "^5.3.6",
     "react-apexcharts": "^1.8.0"
